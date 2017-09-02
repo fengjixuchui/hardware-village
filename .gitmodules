@@ -1,0 +1,3 @@
+[submodule "usb/hub/hub-ctrl"]
+	path = usb/hub/hub-ctrl
+	url = https://github.com/codazoda/hub-ctrl.c.git
