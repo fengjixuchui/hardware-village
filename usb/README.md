@@ -1,6 +1,6 @@
 # USB
 
-Materials related to USB hacking. In progess, will be presented at PHDays 2018.
+Materials related to USB hacking. Were presented at PHDays 2018.
 
 Only USB 2 (no USB 3+ or USB Type C). Only Linux.
 
@@ -48,6 +48,8 @@ Links: [here](https://github.com/xairy/hardware-village/blob/master/usb/LINKS.md
 [Cactus Micro Rev2](https://www.aliexpress.com/item/Cactus-Micro-Rev2-Pro-Micro-atmega32u4-WIFI-ESP8266-module-ESP-11-ESP-03/32804236925.html) (35$)
 
 [EC3380-AB](http://www.bplus.com.tw/Adapter/EC3380-AB.html) (180$)
+
+[AirDrive Keylogger Max](http://www.keelog.com/hardware-keylogger/) (100$)
 
 
 ## Agenda
