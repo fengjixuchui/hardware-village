@@ -363,3 +363,23 @@ https://www.youtube.com/watch?v=QLEpwra_9o8
 https://github.com/kkamagui/IRON-HID
 
 https://github.com/bkerler/sahara_emulator
+
+## Unsorted
+
+http://www.usbmadesimple.co.uk/index.html
+
+http://microchipdeveloper.com/usb:start
+
+https://opensource.srlabs.de/projects/badusb
+
+https://www.crowdsupply.com/sutajio-kosagi/tomu
+
+https://github.com/basic4/USB-Rubber-Ducky-Clone-using-Arduino-Leonardo-Beetle
+
+https://github.com/jerwuqu/ardoducky
+
+https://github.com/Seytonic/Duckduino-microSD
+
+https://github.com/golem445/bunny_payloads
+
+http://www.keelog.com/hardware-keylogger/
