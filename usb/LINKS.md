@@ -383,3 +383,21 @@ https://github.com/Seytonic/Duckduino-microSD
 https://github.com/golem445/bunny_payloads
 
 http://www.keelog.com/hardware-keylogger/
+
+http://devalias.net/devalias/2018/05/13/usb-reverse-engineering-down-the-rabbit-hole/
+
+https://www.pjrc.com/usb-hub-bug-hunting-lessons-learned/
+
+https://www.youtube.com/watch?v=pUa6nWWTO4o
+
+https://xakep.ru/2018/06/25/badusb-keyboard-layout/
+
+https://researchcenter.paloaltonetworks.com/2018/06/unit42-tick-group-weaponized-secure-usb-drives-target-air-gapped-critical-systems/
+
+https://labs.mwrinfosecurity.com/blog/usb-fuzzing-for-the-masses/
+
+https://www.exploit-db.com/docs/english/44947-discovering-and-plotting-hidden-networks-created-with-usb-devices.pdf
+
+http://blog.sevagas.com/?Advanced-USB-key-phishing
+
+https://bugs.chromium.org/p/project-zero/issues/detail?id=1583
