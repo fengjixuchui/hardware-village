@@ -352,6 +352,22 @@ TODO
 
 TODO
 
+https://github.com/dominicgs/USBProxy
+
+https://beagleboard.org/latest-images
+
+https://github.com/dominicgs/USBProxy/releases/
+
+http://gimx.fr/wiki/index.php?title=Bbb_sniffer
+
+https://github.com/dominicgs/USBProxy/tree/master/doc
+
+https://github.com/dominicgs/USBProxy/issues/50
+
+http://blog.tonywall.com/2013/11/beaglebone-black-serial-debug-connection/
+
+TODO: build new image
+
 ### USBProxy 'Nouveau' with Facedancer21
 
 TODO
