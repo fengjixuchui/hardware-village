@@ -1,10 +1,10 @@
 # USB
 
-Materials related to USB hacking. Were presented at PHDays 2018.
+Materials related to USB hacking. Presented at PHDays 2018 in Moscow and Chaos Constructions 2018 in Saint Petersburg.
 
 Only USB 2 (no USB 3+ or USB Type C). Only Linux.
 
-Slides: [here](https://docs.google.com/presentation/d/1S1yNeehSXOvtC_QmtqETSF3frlMLgka6v3XQVupJXTQ/edit?usp=sharing).
+Slides: [PHDays 2018](https://docs.google.com/presentation/d/1S1yNeehSXOvtC_QmtqETSF3frlMLgka6v3XQVupJXTQ/edit?usp=sharing), [Chaos Constructions 2018](https://docs.google.com/presentation/d/1C0Mfh9kcHQvqaLd6hbx6ilM_blYwg05YVW5rRS6Z8yQ/edit?usp=sharing).
 
 Demos: [here](https://github.com/xairy/hardware-village/blob/master/usb/DEMOS.md).
 
@@ -35,6 +35,8 @@ Links: [here](https://github.com/xairy/hardware-village/blob/master/usb/LINKS.md
 
 [Cactus WHID](https://www.aliexpress.com/item/Cactus-Micro-compatible-board-plus-WIFI-chip-esp8266-for-atmega32u4/32318391529.html) (16$)
 
+[Cactus Micro Rev2](https://www.aliexpress.com/item/Cactus-Micro-Rev2-Pro-Micro-atmega32u4-WIFI-ESP8266-module-ESP-11-ESP-03/32804236925.html) (35$)
+
 [Raspberry Pi Zero](https://www.raspberrypi.org/products/raspberry-pi-zero/) (5$)
 
 [Raspberry Pi Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-w/) (10$)
@@ -43,10 +45,6 @@ Links: [here](https://github.com/xairy/hardware-village/blob/master/usb/LINKS.md
 
 [Nexus 7 2013 (Wi-Fi) tablet](https://en.wikipedia.org/wiki/Nexus_7_(2013)) (~150$)
 
-### In delivery
-
-[Cactus Micro Rev2](https://www.aliexpress.com/item/Cactus-Micro-Rev2-Pro-Micro-atmega32u4-WIFI-ESP8266-module-ESP-11-ESP-03/32804236925.html) (35$)
-
 [EC3380-AB](http://www.bplus.com.tw/Adapter/EC3380-AB.html) (180$)
 
 [AirDrive Keylogger Max](http://www.keelog.com/hardware-keylogger/) (100$)
@@ -54,7 +52,7 @@ Links: [here](https://github.com/xairy/hardware-village/blob/master/usb/LINKS.md
 
 ## Agenda
 
-This was the plan, didn't cover all.
+This is the plan, have't covered all yet.
 
 ### Part 1: USB 101
 
@@ -156,6 +154,7 @@ Slides:
 #### Demos
 
 0. Sniffing with usbmon already demoed in part 1.
-1. Sniffing USB with USBProxy on BeagleBone Black.
-2. Sniffing USB with USBProxy 'Nouveau' with Facedancer21.
-3. USB MitM with two Facedacer21 boards (if we get the 2nd Facedancer21 to work).
+1. Sniffing with a logic analyzer already demoed in part 1.
+2. Sniffing USB with USBProxy on BeagleBone Black.
+3. Sniffing USB with USBProxy 'Nouveau' with Facedancer21.
+4. USB MitM with two Facedacer21 boards.
