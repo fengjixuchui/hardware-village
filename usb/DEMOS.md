@@ -350,23 +350,27 @@ TODO
 
 ### USBProxy on BeagleBone Black
 
+Get a shell on the BBB following [this](http://blog.tonywall.com/2013/11/beaglebone-black-serial-debug-connection/).
+
+#### Preimaged
+
+Get the image from [USBProxy releases](https://github.com/dominicgs/USBProxy/releases/) and flash onto an SD card.
+
+Boot BBB, build USBProxy, run `sudo ./usb-mitm -l`.
+
+TODO: describe thoroughly.
+
+#### Rebuild image
+
 TODO
 
-https://github.com/dominicgs/USBProxy
-
 https://beagleboard.org/latest-images
-
-https://github.com/dominicgs/USBProxy/releases/
 
 http://gimx.fr/wiki/index.php?title=Bbb_sniffer
 
 https://github.com/dominicgs/USBProxy/tree/master/doc
 
 https://github.com/dominicgs/USBProxy/issues/50
-
-http://blog.tonywall.com/2013/11/beaglebone-black-serial-debug-connection/
-
-TODO: build new image
 
 ### USBProxy 'Nouveau' with Facedancer21
 
