@@ -26,15 +26,15 @@ http://www.usb.org/developers/docs/devclass_docs/usbmassbulk_10.pdf
 
 [Attacks via physical access to USB (DMA…?)](https://security.stackexchange.com/questions/118854/attacks-via-physical-access-to-usb-dma)
 
-http://seclists.org/oss-sec/2017/q4/247
+[Re: Linux kernel: multiple vulnerabilities in the USB subsystem](http://seclists.org/oss-sec/2017/q4/247)
 
-https://www.offensivecon.org/speakers/2018/markus-and-michele.html
+[2018: "OH NO, WHERE'S FIDO? - A JOURNEY INTO NOVEL WEB-TECHNOLOGY AND U2F EXPLOITATION"](https://www.offensivecon.org/speakers/2018/markus-and-michele.html)
 
 ### Connectors
 
-http://www.usb.org/developers/onthego/london/OTG_mechanical.pdf
+[USB On-The-Go Mechanical Presentation](http://www.usb.org/developers/onthego/london/OTG_mechanical.pdf) [slides]
 
-https://gct.co/usb-connector/micro-usb-connector-overview
+https://gct.co/images/products/usb-connector/mating-configurations-usb.jpg
 
 ### Hubs
 
@@ -48,18 +48,18 @@ https://github.com/codazoda/hub-ctrl.c
 
 ### Cameras
 
-https://jscholarship.library.jhu.edu/bitstream/handle/1774.2/36569/camera.pdf?sequence=1&isAllowed=y
+[iıSeeYou: Disabling the MacBook Webcam Indicator LED](https://jscholarship.library.jhu.edu/bitstream/handle/1774.2/36569/camera.pdf) [paper]
 
-https://security.stackexchange.com/questions/6758/can-webcams-be-turned-on-without-the-indicator-light
+[Can webcams be turned on without the indicator light?](https://security.stackexchange.com/questions/6758/can-webcams-be-turned-on-without-the-indicator-light)
 
-https://raspberrypi.stackexchange.com/questions/43118/turning-off-the-blue-status-led-on-the-logitech-c920-usb-camera
+[Turning off the blue status LED on the logitech C920 usb camera?](https://raspberrypi.stackexchange.com/questions/43118/turning-off-the-blue-status-led-on-the-logitech-c920-usb-camera)
 
 https://github.com/cshorler/webcam-tools
 
 
 ## Linux USB stack
 
-TODO: udev, usbfs, usbip, vhci
+TODO: udev, libusb, usbfs, usbip, vhci
 
 https://www.kernel.org/doc/Documentation/usb/
 
@@ -71,9 +71,9 @@ http://www.linux-usb.org/
 
 [2009: "USB Device Drivers A Stepping Stone into your Kernel" by Moritz Jodeit and Martin Johns](http://www.jodeit.org/research/DeepSec2009_USB_Device_Drivers.pdf) [slides]
 
-http://processors.wiki.ti.com/index.php/USB_General_Guide_Linux_v3.8
+[USB General Guide Linux v3.8](http://processors.wiki.ti.com/index.php/USB_General_Guide_Linux_v3.8)
 
-https://www.kernel.org/doc/html/latest/driver-api/usb/index.html
+[Linux USB API](https://www.kernel.org/doc/html/latest/driver-api/usb/index.html)
 
 [Bootstrap Yourself with Linux-USB Stack: Design, Develop, Debug, and Validate Embedded USB](http://index-of.es/OS/Linux-USB%20Stack.pdf) [book]
 
@@ -83,7 +83,7 @@ https://www.kernel.org/doc/Documentation/usb/usbmon.txt
 
 https://wiki.ubuntu.com/Kernel/Debugging/USB
 
-https://stackoverflow.com/questions/31054437/how-to-install-wireshak-on-linux-and-capture-usb-traffic
+[How to install Wireshak on Linux and capture USB traffic?](https://stackoverflow.com/questions/31054437/how-to-install-wireshak-on-linux-and-capture-usb-traffic)
 
 ### Gadget subsystem
 
@@ -110,8 +110,6 @@ http://www.linux-usb.org/gadget/ ([usb.c](http://www.linux-usb.org/gadget/usb.c)
 https://sourceforge.net/p/hid-gadgetfs/code/ci/master/tree/
 
 https://github.com/ueno/libusb-gadget
-
-https://www.kernel.org/doc/Documentation/usb/gadget_hid.txt
 
 https://github.com/qlyoung/keyboard-gadget
 
@@ -150,7 +148,7 @@ https://www.hak5.org/gear/lan-turtle/docs
 
 https://github.com/PaulStoffregen/cores
 
-#### TODO
+#### Various tools
 
 https://github.com/ebursztein/malusb
 
@@ -274,15 +272,18 @@ https://github.com/xairy/facedancer-utils
 
 USB MitM with two Facedacer21 boards [1](https://github.com/withdk/badusb2-mitm-poc), [2](http://seclist.us/badusb-2-0-usb-mitm-poc.html)
 
+http://wiki.yobi.be/wiki/Raspdancer
+
+https://github.com/dominicgs/BeagleDancer
+
 ### Other
 
-[USB Kill](https://usbkill.com/)
-
-http://wiki.yobi.be/wiki/Raspdancer
+[USB Killer](https://usbkill.com/)
 
 Beagle analyzers ([[1](https://www.totalphase.com/products/beagle-usb12/)], [[2](https://www.totalphase.com/products/beagle-usb480/)], [[3](https://www.totalphase.com/products/beagle-usb5000-v2-ultimate/)])
 
 [OpenVizla](http://openvizsla.org/)
+
 
 ## Other
 
