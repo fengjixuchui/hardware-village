@@ -402,3 +402,23 @@ https://www.exploit-db.com/docs/english/44947-discovering-and-plotting-hidden-ne
 http://blog.sevagas.com/?Advanced-USB-key-phishing
 
 https://bugs.chromium.org/p/project-zero/issues/detail?id=1583
+
+https://download.ernw-insight.de/troopers/tr18/slides/TR18_AR_RE-Black-Box-Systems-GreatFET-Facedancer.pdf
+
+https://blog.invisiblethings.org/2011/05/31/usb-security-challenges.html
+
+https://atcommands.org/sec18-tian.pdf
+
+https://www.cise.ufl.edu/~butler/pubs/acsac15.pdf
+
+https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/tian
+
+https://arxiv.org/abs/1708.09114
+
+https://xakep.ru/2018/08/21/usbharpoon/
+
+https://googleprojectzero.blogspot.com/2018/09/oatmeal-on-universal-cereal-bus.html
+
+https://events.static.linuxfound.org/sites/events/files/slides/LinuxConNA-Make-your-own-USB-gadget-Andrzej.Pietrasiewicz.pdf
+
+https://blog.eclypsium.com/2018/07/23/evil-mai%EF%BB%BFd-firmware-attacks-using-usb-debug/
