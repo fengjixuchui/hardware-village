@@ -27,6 +27,8 @@ Links: [here](https://github.com/xairy/hardware-village/blob/master/usb/LINKS.md
 
 [Facedancer21](http://goodfet.sourceforge.net/hardware/facedancer21/) (85$)
 
+[NXP LPC4330-Xplorer Board](https://www.nxp.com/support/developer-resources/nxp-designs/lpc4330-xplorer-board:OM13027) (60$)
+
 [Teensy 3.2](https://www.pjrc.com/store/teensy32.html) (20$)
 
 [ATtiny85 board](https://www.aliexpress.com/item/Free-shipping-1pcs-Digispark-kickstarter-development-board-ATTINY85-module-for-Arduino-usb/32697283942.html) (1.3$)
