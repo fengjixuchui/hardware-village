@@ -48,7 +48,7 @@ https://github.com/codazoda/hub-ctrl.c
 
 ### Cameras
 
-[iıSeeYou: Disabling the MacBook Webcam Indicator LED](https://jscholarship.library.jhu.edu/bitstream/handle/1774.2/36569/camera.pdf) [paper]
+[iSeeYou: Disabling the MacBook Webcam Indicator LED](https://jscholarship.library.jhu.edu/bitstream/handle/1774.2/36569/camera.pdf) [paper]
 
 [Can webcams be turned on without the indicator light?](https://security.stackexchange.com/questions/6758/can-webcams-be-turned-on-without-the-indicator-light)
 
@@ -422,3 +422,9 @@ https://googleprojectzero.blogspot.com/2018/09/oatmeal-on-universal-cereal-bus.h
 https://events.static.linuxfound.org/sites/events/files/slides/LinuxConNA-Make-your-own-USB-gadget-Andrzej.Pietrasiewicz.pdf
 
 https://blog.eclypsium.com/2018/07/23/evil-mai%EF%BB%BFd-firmware-attacks-using-usb-debug/
+
+http://www.zytrax.com/tech/pc/serial.html
+
+https://www.diodes.com/design/support/technical-articles/pericoms-articles/usb-type-c-is-coming-3-things-youve-just-gotta-know/
+
+http://www.ti.com/lit/wp/slly021/slly021.pdf
