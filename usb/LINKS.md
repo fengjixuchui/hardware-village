@@ -428,3 +428,9 @@ http://www.zytrax.com/tech/pc/serial.html
 https://www.diodes.com/design/support/technical-articles/pericoms-articles/usb-type-c-is-coming-3-things-youve-just-gotta-know/
 
 http://www.ti.com/lit/wp/slly021/slly021.pdf
+
+https://www.crowdsupply.com/rfid-research-group/usbninja
+
+http://janaxelson.com/usbcenum.htm
+
+https://www.slideshare.net/mobile/MSbluehat/bluehat-v18-massive-scale-usb-device-driver-fuzz-without-device
