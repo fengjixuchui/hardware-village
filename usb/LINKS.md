@@ -434,3 +434,11 @@ https://www.crowdsupply.com/rfid-research-group/usbninja
 http://janaxelson.com/usbcenum.htm
 
 https://www.slideshare.net/mobile/MSbluehat/bluehat-v18-massive-scale-usb-device-driver-fuzz-without-device
+
+https://hackaday.com/2016/10/04/glitching-usb-firmware-for-fun/
+
+https://github.com/scanlime/facewhisperer
+
+https://media.blackhat.com/bh-us-11/Ose/BH_US_11_Ose_Exploiting_USB_Devices_WP.pdf
+
+https://tubdok.tub.tuhh.de/bitstream/11420/1286/1/USB%20-%20An%20Attack%20Surface%20of%20Emerging%20Importance.pdf
