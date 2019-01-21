@@ -442,3 +442,9 @@ https://github.com/scanlime/facewhisperer
 https://media.blackhat.com/bh-us-11/Ose/BH_US_11_Ose_Exploiting_USB_Devices_WP.pdf
 
 https://tubdok.tub.tuhh.de/bitstream/11420/1286/1/USB%20-%20An%20Attack%20Surface%20of%20Emerging%20Importance.pdf
+
+https://twitter.com/LambdaConcept/status/1072951431878111232
+
+http://who-t.blogspot.com/2018/12/understanding-hid-report-descriptors.html
+
+https://github.com/zonque/USBDescriptorKitchen
