@@ -13,8 +13,6 @@ Links: [here](https://github.com/xairy/hardware-village/blob/master/usb/LINKS.md
 
 ## Hardware
 
-### Have
-
 [Rubber Ducky](https://hakshop.com/products/usb-rubber-ducky-deluxe) (45$)
 
 [Bash Bunny](https://hakshop.com/products/bash-bunny) (100$)
@@ -54,7 +52,7 @@ Links: [here](https://github.com/xairy/hardware-village/blob/master/usb/LINKS.md
 
 ## Agenda
 
-This is the plan, have't covered all yet.
+This is the plan, haven't covered all yet.
 
 ### Part 1: USB 101
 
